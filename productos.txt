@@ -1,0 +1,14 @@
+1,Disco,hembra,48,5200
+2,Disco,macho,50,5000
+3,Molly,hembra,50,3200
+4,Molly,macho,50,3000
+5,Viuda,hembra,50,3500
+6,Viuda,macho,50,2600
+7,Betta,hembra,50,4500
+8,Betta,macho,50,4000
+9,Guppy,hembra,100,2000
+10,Guppy,macho,100,1800
+11,Platty,hembra,60,4000
+12,Platty,macho,10,3000
+13,Tetra,hembra,20,5000
+14,Tetra,macho,15,3800
